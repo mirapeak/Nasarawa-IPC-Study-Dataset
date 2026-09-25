@@ -1,0 +1,21 @@
+{
+  "title": "Nasarawa State Infection Prevention and Control Study Dataset",
+  "upload_type": "dataset",
+  "description": "De-identified dataset accompanying the study on determinants and structural drivers of infection prevention and control among primary and secondary healthcare facilities in Nasarawa State, Nigeria.",
+  "creators": [
+    {
+      "name": "Livinus, Miracle Uwa"
+    }
+  ],
+  "keywords": [
+    "infection prevention and control",
+    "healthcare-associated infections",
+    "primary healthcare",
+    "secondary healthcare",
+    "Nasarawa State",
+    "Nigeria"
+  ],
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "publication_date": "2026-09-25"
+}
